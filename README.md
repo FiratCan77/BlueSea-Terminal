@@ -1,0 +1,2 @@
+# BlueSea-Terminal
+BlueSea-OS
